@@ -1,2 +1,2 @@
-# js2_webpack_vue
-js2_webpack_vue
+# js2_webpack
+ js2_webpack
